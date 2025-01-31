@@ -10,4 +10,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=AmiraliTanabian&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1>Salam</h1>
